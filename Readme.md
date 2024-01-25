@@ -1,4 +1,4 @@
-# [Демо на GitHub Pages](https://msib.github.io/HTML-Academy__technomart/)
+# [Демо на GitHub Pages](https://msib.github.io/HTML_Academy--technomart/)
 
 # Личный проект «Техномарт»
 
